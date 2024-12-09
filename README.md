@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjjunSharma
 - 👀 I’m interested in ...grasping new technical concepts 
-- 🌱 I’m currently learning ... programming
+- 🌱 I’m currently learning ...  conputer informatics
 - 💞️ I’m looking to collaborate on ... some basic  projects 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
