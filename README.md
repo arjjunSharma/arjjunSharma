@@ -6,7 +6,7 @@
 <h1>Hi 👋 I'm Arjun</h1>
 
 <a href="https://github.com/arjjunSharma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Curious+about+AI%2C+Machine+Learning+%26+Software+Engineering;Exploring+Backend+Development+%26+System+Design;Building+scalable+applications%2C+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Curious+about+AI%2C+Machine+Learning+%26+Software+Engineering;Exploring+Backend+Development+%26+System+Design;Building+scalable+applications%2C+one+commit+at+a+time." alt="Typing SVG" />
 </a>
 
 <p>
