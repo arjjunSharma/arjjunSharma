@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="assets/profile-dot.jpeg  " width="150" height="150" style="border-radius:50%;" alt="Arjun"/>
+<img src="assets/profile-dot.jpeg  " width="150" height="150" style="border-radius:50%; object-fit: cover;
+        display: block;" alt="Arjun"/>
 
 <h1>Hi 👋 I'm Arjun</h1>
 
