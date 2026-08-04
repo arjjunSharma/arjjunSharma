@@ -29,9 +29,6 @@ Building scalable applications while continuously learning new technologies.
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=arjjunSharma&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="165" src="https://streak-stats.demolab.com?user=arjjunSharma&theme=github-dark-blue&hide_border=true"/>
 
 </div>
