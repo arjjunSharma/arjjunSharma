@@ -96,10 +96,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=arjjunSharma
 
 </div>
 
-> Pin more repos from your [GitHub profile settings → Customize your pins](https://github.com/arjjunSharma?tab=repositories) and add another `?repo=` card above — each one updates automatically with live stars, forks, and language data.
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
