@@ -88,7 +88,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=arjjunSharma
 <div align="center">
 
 <a href="https://github.com/arjjunSharma/Gmail-Responder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arjjunSharma&repo=Gmail-Responder&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=arjjunSharma&repo=Gmail-Responder&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
